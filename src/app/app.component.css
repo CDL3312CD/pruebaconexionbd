@@ -1,0 +1,10 @@
+.formulario{
+ background: rgb(202, 188, 188);
+ border-radius: 3%;
+
+}
+input{
+    border-color: blueviolet;
+    opacity: 89%;
+    border-radius: 3%;
+}
